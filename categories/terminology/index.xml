@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminology on Techtaste</title>
-    <link>https://sharemygo.in/categories/terminology/</link>
-    <description>Recent content in Terminology on Techtaste</description>
+    <title>Terminology on AI Infra</title>
+    <link>https://raghavxk8s.com/categories/terminology/</link>
+    <description>Recent content in Terminology on AI Infra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Jun 2019 22:28:52 +0000</lastBuildDate>
     
-	<atom:link href="https://sharemygo.in/categories/terminology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raghavxk8s.com/categories/terminology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Terminology 1</title>
-      <link>https://sharemygo.in/post/terminology/</link>
+      <link>https://raghavxk8s.com/post/terminology/</link>
       <pubDate>Tue, 11 Jun 2019 22:28:52 +0000</pubDate>
       
-      <guid>https://sharemygo.in/post/terminology/</guid>
+      <guid>https://raghavxk8s.com/post/terminology/</guid>
       <description>* placeholder * abstract it out * Symantics of a command  * filesytem is on disk data structure  </description>
     </item>
     
